@@ -7,6 +7,9 @@
   <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemasamuel&layout=compact" />
 </a>
 
+## 📫 Reach me on
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 ### 📋 Languages
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
