@@ -1,10 +1,10 @@
 # Hi there, I'm Sam! 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="45px" align="center" src="https://github-readme-stats.vercel.app/api?username=elemasamuel&show_icons=true&theme=radical" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=elemasamuel&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="45px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemasamuel&layout=compact" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elemasamuel&layout=compact" />
 </a>
 
 ### 📋 Languages
