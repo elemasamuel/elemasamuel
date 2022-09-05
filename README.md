@@ -1,6 +1,6 @@
 ![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/07/Python-banner.png)
 <h1 align="center">Hi 👋, I'm Elema Samuel</h1>
-<h3 align="center">A passionate Python Developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 
