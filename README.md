@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elemasamuel&label=Profile%20views&color=0e75b6&style=flat" alt="elemasamuel" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Ask me about **Machine Learning**
 
 - 💬 Ask me about **Django**
 
